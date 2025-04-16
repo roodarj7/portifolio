@@ -24,3 +24,7 @@ git log
 
 git remote
 -mostra o origin, file origem
+
+git revert (id do commit feito)
+-reverte a mudança feita anteriormente
+
