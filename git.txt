@@ -1,0 +1,26 @@
+GIT
+
+
+
+
+
+git status
+-mostra os arquivos modificados
+
+git add
+-adiciona mudanças feitas
+
+git commit
+-regisra as mudanças para o novo repositorio
+
+git push
+-envia as mudanças feitas para o repositorio
+
+git pull
+-inverso do git push, trazer as mudanças para o repositorio local / baixar commits novos
+
+git log
+-registro de commits
+
+git remote
+-mostra o origin, file origem
