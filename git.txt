@@ -25,6 +25,11 @@ git log
 git remote
 -mostra o origin, file origem
 
-git revert (id do commit feito)
+git revert (id do commit)
 -reverte a mudança feita anteriormente
 
+git reset --hard (id do commit que queremos voltar)
+-desfazer o commit e a mudança no codigo
+
+git commit --amend -m ""
+-altera a mensagem do ultimo commit
