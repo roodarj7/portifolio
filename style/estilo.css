@@ -12,7 +12,8 @@
 
 * {
     margin: 0;
-    padding: 0; 
+    padding: 0;
+    font-family: "DM Sans";
 }
 
 body {
@@ -107,6 +108,8 @@ body {
 
 .apresentacao__foto {
     width: 50%;
+    border: 2px solid var(--cor-secundaria);
+    border-radius: 20px;
 }
 
 .rodape {
@@ -134,7 +137,8 @@ body {
 
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 5% 10%;    
+        padding: 5% 10%;
+        gap: 2rem; 
     }
 
     .apresentacao__conteudo{
